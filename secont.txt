@@ -1,0 +1,1 @@
+Second test file to test VSCodium integration with git and github.
